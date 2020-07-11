@@ -1,0 +1,49 @@
+h1  {
+  color: blue;
+  text-align: center;
+  font-size: 15pt;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2  {
+  color: black;
+  text-align: justify;
+  font-size: 10pt;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p { 
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15pt;
+  text-align: justify;
+}
+
+ul {
+  line-height: 10px;
+}
+
+ol  {
+
+  list-style-type: square;
+}
+.aboutme {
+  background-color: lawngreen;
+}
+.projects  {
+  background-color: lightcoral;
+}
+.catclimate {
+  background-color: yellow;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.important {
+  background-color: lawngreen;
+}
+.unimportant  {
+  background-color: lightcoral;
+}
+
