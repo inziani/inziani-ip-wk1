@@ -1,11 +1,11 @@
-h1  {
+h1 {
   color: blue;
   text-align: center;
   font-size: 15pt;
   font-style: italic;
   font-family: Arial, Helvetica, sans-serif;
 }
-h2  {
+h2 {
   color: black;
   text-align: justify;
   font-size: 10pt;
@@ -24,14 +24,14 @@ ul {
   line-height: 10px;
 }
 
-ol  {
+ol {
 
   list-style-type: square;
 }
 .aboutme {
   background-color: lawngreen;
 }
-.projects  {
+.projects {
   background-color: lightcoral;
 }
 .catclimate {
